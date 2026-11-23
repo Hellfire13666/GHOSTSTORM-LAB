@@ -89,6 +89,16 @@ Commands run **locally in your terminal**, not on GitHub Pages. Recipes that nee
 
 </div>
 
+## 🌈 GHOSTSTORM // VIEW SAVED RESULTS
+
+Huge output? The report saved by the **Mega-Storm** recipe can be opened with the correct rainbow formatting, without scrolling through the original terminal session:
+
+```bash
+LESSCHARSET=utf-8 less -R "$HOME/Downloads/GHOSTSTORM-MEGA-STORM.txt"
+```
+
+The file must already exist in your own Downloads folder. In the viewer, type `/Tokyo` and press Enter to find matches, `n` for the next match, and `q` to exit. This is **read-only**; it does not change your saved evidence or contact any provider. The [HEXCODEX guest page](https://hellfire13666.github.io/GHOSTSTORM-LAB/#saved-results-viewer) includes a **COPY VIEW RECIPE** button.
+
 ## 🛠️ BUILD SPECS // LAB EDITION
 
 | Component | Build detail |
